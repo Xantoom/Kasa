@@ -43,7 +43,7 @@ export default function Accommodation() {
                             })}
                         </div>
                     </div>
-                    <div className="accommodation_content_host">
+                    <div className="accommodation__content__host">
                         <div>
                             <div className='accommodation__content__host__name'>
                                 <span>{name[0]}</span>

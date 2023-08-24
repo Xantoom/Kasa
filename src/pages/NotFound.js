@@ -11,9 +11,9 @@ export default function NotFound() {
                 <div className="not-found">
                     <div className="not-found__content">
                         <h2 className={"not-found__content__title"}>404</h2>
-                        <p className={"not-found__content_sub-content"}>Oups! La page que vous demandez n'existe pas.</p>
+                        <p className={"not-found__content__sub-content"}>Oups! La page que vous demandez n'existe pas.</p>
                     </div>
-                    <Link to={'/'} className="not-found__link">Retourner sur la page d’accueil</Link>
+                    <Link to={'/'} className="not-found__content__link">Retourner sur la page d’accueil</Link>
                 </div>
             </div>
             <Footer />

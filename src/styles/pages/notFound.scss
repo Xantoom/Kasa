@@ -5,22 +5,22 @@
   margin: 0 auto;
   padding-bottom: 40px;
   color: $color-secondary;
-  &__content{
+  &__content {
     @include flex(column, center, center);
     min-height: calc(100vh - 250px);
-    &__title{
+    &__title {
       font-weight: 700;
       font-size: 288px;
       @media screen and (max-width: 768px) {
         font-size: 140px;
       }
     }
-    &__sub-content{
+    &__sub-content {
       font-weight: 500;
       font-size: clamp(20px, 4vw, 36px);
       text-align: center;
     }
-    &__link{
+    &__link {
       display: block;
       text-align: center;
       font-weight: 500;
