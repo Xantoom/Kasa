@@ -5,16 +5,19 @@
 Étape du projet : 5%
 
 ## Prérequis ##
+
 - [NPM](https://www.npmjs.com/)
 
 ## Installation ##
 
 - Cloner le projet
 - Se placer dans le dossier du projet
+- Installer les dépendances : `npm install`
   
 ## Utilisation ##
 
 - Se placer dans le dossier du projet
+- Lancer le serveur : `npm start`
 
 ## Auteur ##
 * **Xavier Lauer** - [Xantoom](https://github.com/Xantoom)

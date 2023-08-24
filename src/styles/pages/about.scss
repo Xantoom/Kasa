@@ -1,0 +1,12 @@
+@import '../main.scss';
+
+.about__main {
+  width: 95%;
+  margin: 0 auto;
+  &__collapser {
+    margin: 40px auto;
+    @media screen and (max-width: 550px){
+      margin: 20px auto;
+    }
+  }
+}
