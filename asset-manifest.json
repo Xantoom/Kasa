@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Xantoom/kasa/static/css/main.778f409b.css",
+    "main.js": "/Xantoom/kasa/static/js/main.26d0b7c6.js",
+    "static/media/cover_about.png": "/Xantoom/kasa/static/media/cover_about.9438035cca5a38fcb06a.png",
+    "static/media/cover_home.png": "/Xantoom/kasa/static/media/cover_home.84132b0f93bbeaa2fe46.png",
+    "index.html": "/Xantoom/kasa/index.html",
+    "main.778f409b.css.map": "/Xantoom/kasa/static/css/main.778f409b.css.map",
+    "main.26d0b7c6.js.map": "/Xantoom/kasa/static/js/main.26d0b7c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778f409b.css",
+    "static/js/main.26d0b7c6.js"
+  ]
+}
