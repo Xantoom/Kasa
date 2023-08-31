@@ -6,7 +6,7 @@ import Accommodation from "./pages/Accommodation";
 
 const router = createBrowserRouter([
     { path: '/', element: <Home /> },
-    { path: '/accommodation/:id', element: <Accommodation /> },
+    { path: '/accommodation/:id', element: <Accommodation />, errorElement: <NotFound /> },
     { path: '/about', element: <About /> },
     { path: '*', element: <NotFound /> },
 ]);
