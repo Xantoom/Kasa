@@ -2,7 +2,7 @@
 
 > Kasa est un projet de formation de la formation Développeur Web d'OpenClassrooms. Il s'agit d'un site de location d'appartements entre particuliers.
 
-Étape du projet : 100% (à voir avec Mentor pour d'éventuelles corrections avant soutenance)
+Étape du projet : 100% - soutenance validée
 
 ## Prérequis ##
 
